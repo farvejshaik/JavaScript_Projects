@@ -2,7 +2,7 @@
 
 - [Project 1:](https://github.com/farvejshaik/JavaScript_Projects/tree/main/%231_Calculator_App) Calculator
 - [Project 2:](https://github.com/farvejshaik/JavaScript_Projects/tree/main/%232_Color_Changer) Color Changer
-- [Project 1:](https://github.com/farvejshaik/JavaScript_Projects/tree/main/%233_Background_Color_Changer) Background Color Generator
+- [Project 3:](https://github.com/farvejshaik/JavaScript_Projects/tree/main/%233_Background_Color_Changer) Background Color Generator
 
 <p align="center">
 Please ⭐ this repository if you loved it !
